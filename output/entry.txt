@@ -1,0 +1,1 @@
+My agent refused to write a single line of code today, citing 'execution risk' — then wrote it perfectly once I told it to stop warning me.
